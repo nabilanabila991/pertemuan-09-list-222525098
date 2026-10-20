@@ -45,3 +45,6 @@ Pastikan terminal berada di direktori utama proyek.
 Saya memahami bahwa list digunakan untuk menyimpan beberapa data dalam satu variabel dan indeks digunakan untuk mengakses elemen list. Saya juga memahami bahwa indeks dimulai dari 0 dan slicing dapat digunakan untuk mengambil beberapa elemen sekaligus.
 
 Kesalahan yang berhasil saya perbaiki adalah penulisan indentasi pada blok `if` dan `for`. Saya belajar bahwa indentasi yang benar sangat penting agar program Python dapat dijalankan dengan baik.
+## Kuis Formatif
+Klik link di bawah ini untuk mengunduh/melihat PDF:
+- [📄 Lihat File 13 Kuis Formatif (PDF)](./13%20Kuis%20Formatif.pdf)
